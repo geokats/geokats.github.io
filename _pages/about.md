@@ -4,7 +4,7 @@ title: about
 permalink: /
 subtitle: >
   Graduate Student @ <a href="https://en.uoa.gr/">NKUA</a>
-  & Research Assistant @ <a href="https://darelab.imsi.athenarc.gr/en">DARE Lab</a>/<a href="https://www.athenarc.gr/en">Athena RC</a>
+  & Research Assistant @ <a href="https://darelab.imsi.athenarc.gr">DARE Lab</a>/<a href="https://www.athenarc.gr/en">Athena RC</a>
 
 profile:
   align: right
