@@ -3,8 +3,9 @@ layout: about
 title: about
 permalink: /
 subtitle: >
+  Currently: Intern @ IBM Research, Zurich <br>
   PhD Student @ <a href="https://www.univ-grenoble-alpes.fr/english/">UGA</a>
-  & Research Associate @ <a href="https://darelab.imsi.athenarc.gr">DARE Lab</a>/<a href="https://www.athenarc.gr/en">ARC</a>
+  & <a href="https://darelab.imsi.athenarc.gr">DARE Lab</a>/<a href="https://www.athenarc.gr/en">ARC</a>
 
 profile:
   align: right
