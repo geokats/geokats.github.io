@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-  Currently: Intern @ IBM Research, Zurich <br>
+  Intern @ <a href="https://research.ibm.com/labs/zurich">IBM Research, Zurich</a> and
   PhD Student @ <a href="https://www.univ-grenoble-alpes.fr/english/">UGA</a>
   & <a href="https://darelab.imsi.athenarc.gr">DARE Lab</a>/<a href="https://www.athenarc.gr/en">ARC</a>
 
