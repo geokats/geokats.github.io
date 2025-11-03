@@ -11,4 +11,8 @@ nav_order: 3
 <img src="/assets/img/nlidbs-book.webp">
 </figure>
 
+{% include figure.html
+    path="/assets/img/nlidbs-book.webp"
+    class="img-fluid z-depth-1 rounded" -%}
+
 Under construction.
