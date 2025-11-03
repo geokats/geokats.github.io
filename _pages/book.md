@@ -7,4 +7,8 @@ nav: true
 nav_order: 3
 ---
 
+<figure>
+<img src="/assets/img/nlidbs-book.webp">
+</figure>
+
 Under construction.
