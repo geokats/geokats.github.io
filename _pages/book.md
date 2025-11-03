@@ -7,12 +7,19 @@ nav: true
 nav_order: 3
 ---
 
-<figure>
-<img src="/assets/img/nlidbs-book.webp">
-</figure>
+<article>
+    <div class="profile float-right">
 
-{% include figure.html
-    path="/assets/img/nlidbs-book.webp"
-    class="img-fluid z-depth-1 rounded" -%}
+        {% include figure.html
+        path="/assets/img/nlidbs-book.webp"
+        class="img-fluid z-depth-1 rounded" -%}
+        
+        <div class="address">To be released in November 2025.</div>
+    </div>
 
-Under construction.
+
+    <div class="clearfix">
+    Under construction.
+    </div>
+</article>
+
