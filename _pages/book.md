@@ -20,7 +20,7 @@ nav_order: 3
             path="/assets/img/nlidbs-book.webp"
             class="img-fluid z-depth-1 rounded" -%}
             
-            <div class="address">To be released in November 2025.</div>
+            <div class="address">More on <a href="https://link.springer.com/book/10.1007/978-3-032-06905-4">Springer.com</a></div>
         </div>
 
 
