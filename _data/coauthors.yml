@@ -4,7 +4,19 @@
 
 "Xydas":
   - firstname: ["Mike", "M."]
-    url: https://darelab.imsi.athenarc.gr/people/mxydas
+    url: https://darelab.imsi.athenarc.gr/people/xydas
+
+"Mitsopoulou":
+  - firstname: ["Anna", "A."]
+    url: https://darelab.athenarc.gr/people/mitsopoulou/
+
+"Mandamadiotis":
+  - firstname: ["Antonis", "A."]
+    url: https://darelab.athenarc.gr/people/antonismand/
+
+"Eleftherakis":
+  - firstname: ["Stavroula", "S."]
+    url: https://darelab.athenarc.gr/people/selefth/
 
 "Tsapelas":
   - firstname: ["Chris", "Christos", "c."]
