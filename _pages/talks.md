@@ -8,7 +8,7 @@ nav_order: 2
 ---
 
 ##### A Survey on Deep Learning Approaches for Text-to-SQL 
-*Presentation @ [[IMSI](https://www.athenarc.gr/en/imsi) Talks '24]* <!-- // Slides -->
+*Presentation @ [IMSI](https://www.athenarc.gr/en/imsi) Talks '24* <!-- // Slides -->
 
 ---
 
