@@ -7,8 +7,13 @@ nav: true
 nav_order: 2
 ---
 
+##### Data Discovery: A Problem of Many Facets and Challenges 
+*Webinar powered by the [DataGEMS](https://datagems.eu/) EU Project - May '26* <!-- // Slides -->
+
+---
+
 ##### A Survey on Deep Learning Approaches for Text-to-SQL 
-*Presentation @ [IMSI](https://www.athenarc.gr/en/imsi) Talks '24* <!-- // Slides -->
+*Presentation @ [IMSI](https://www.athenarc.gr/en/imsi) Talks - March '24* <!-- // Slides -->
 
 ---
 
